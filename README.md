@@ -20,11 +20,11 @@
 
   <p>
     <samp>
-      <a href="mailto:cdanzeng@ucsd.edu">email</a>
+      <a href="https://tenzindann.github.io/">website</a>
       ·
       <a href="https://www.linkedin.com/in/fnu-danzengcairang/">linkedin</a>
       ·
-      <a href="https://tenzindann.github.io/">website</a>
+      <a href="mailto:cdanzeng@ucsd.edu">email</a>
     </samp>
   </p>
 </div>
