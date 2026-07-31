@@ -14,6 +14,13 @@
     <p>
       Off the clock, I tinker with computer hardware and bikes, make music, and build the occasional game mod.
     </p>
+    <p>
+      <img
+        src="./GIF/bar.gif"
+        alt="Animated personal banner"
+        width="100%"
+      />
+    </p>
   </samp>
 
   <samp>────</samp>
